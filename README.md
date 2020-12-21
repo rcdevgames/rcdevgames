@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Rizky Andhika
 
-[![Repos Badge](https://badges.pufler.dev/repos/rcdevgames)](https://badges.pufler.dev) ![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev) ![Visits Badge](https://badges.pufler.dev/visits/rcdevgames/rcdevgames)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/rcdevgames)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rcdevgames)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/rcdevgames/rcdevgames)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/rcdevgames)](https://badges.pufler.dev)
 
 ###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
